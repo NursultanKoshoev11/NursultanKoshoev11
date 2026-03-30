@@ -123,9 +123,6 @@
   <strong>Telegram:</strong> <a href="https://t.me/koshoevv">@koshoevv</a><br/>
   <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nursultan-koshoev-443b73257/">nursultan-koshoev</a><br/>
   <strong>Email:</strong> <a href="mailto:nursultankosoev2@gmail.com">nursultankosoev2@gmail.com</a><br/>
-  <strong>Portfolio:</strong> <em>(coming soon)</em>
+  <strong>Portfolio:</strong> <a href="https://nursultankoshoev11.github.io/portfolio/" target="_blank" rel="noopener">nursultankoshoev11.github.io/portfolio</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NursultanKoshoev11&color=green" />
-</p>
