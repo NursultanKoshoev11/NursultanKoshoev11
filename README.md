@@ -122,7 +122,7 @@
 <p>
   <strong>Telegram:</strong> <a href="https://t.me/koshoevv">@koshoevv</a><br/>
   <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nursultan-koshoev-443b73257/">nursultan-koshoev</a><br/>
-  <strong>Email:</strong> <a href="mailto:narsultan.koshoev.worl@mail.ru">narsultan.koshoev.worl@mail.ru</a><br/>
+  <strong>Email:</strong> <a href="mailto:nursultankosoev2@gmail.com">nursultankosoev2@gmail.com</a><br/>
   <strong>Portfolio:</strong> <em>(coming soon)</em>
 </p>
 
