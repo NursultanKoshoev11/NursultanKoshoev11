@@ -117,26 +117,6 @@
   <li><strong>Backend Services</strong> – Wrote microservices in <strong>Go</strong> for real‑time telemetry and matchmaking</li>
 </ul>
 
-<h2>📊 GitHub Stats</h2>
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=NursultanKoshoev11"/></td>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=NursultanKoshoev11"/></td>
-  </tr>
-</table>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=NursultanKoshoev11&theme=radical" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NursultanKoshoev11&theme=github" />
-</p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=NursultanKoshoev11&theme=radical&row=1&column=6" />
-</p>
 
 <h2>📫 Let's Connect</h2>
 <p>
