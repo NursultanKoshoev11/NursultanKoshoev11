@@ -121,8 +121,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=NursultanKoshoev11&show_icons=true&theme=radical&hide=contribs" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NursultanKoshoev11&layout=compact&theme=radical" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=NursultanKoshoev11"/></td>
+    <td><img src="https://github-profile-trophy.vercel.app/?username=NursultanKoshoev11"/></td>
   </tr>
 </table>
 
