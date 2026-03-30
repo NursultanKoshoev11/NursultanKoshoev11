@@ -122,7 +122,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=NursultanKoshoev11"/></td>
-    <td><img src="https://github-profile-trophy.vercel.app/?username=NursultanKoshoev11"/></td>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=NursultanKoshoev11"/></td>
   </tr>
 </table>
 
